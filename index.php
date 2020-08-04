@@ -1,6 +1,7 @@
 <?php
 
 echo "world";
+echo "hello";
 ?>
 
 <!DOCTYPE html>
