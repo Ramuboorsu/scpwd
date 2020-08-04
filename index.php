@@ -1,7 +1,11 @@
 <?php
 
 echo "world";
+<<<<<<< HEAD
 echo "good";
+=======
+echo "hello";
+>>>>>>> 38da6839daa465cfa6e8827b712c0e1286bcf0a2
 ?>
 
 <!DOCTYPE html>
