@@ -2,6 +2,7 @@
 
 echo "world";
 echo "hello";
+echo "hii";
 ?>
 
 <!DOCTYPE html>
